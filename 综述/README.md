@@ -3,6 +3,7 @@
 ## super-resolution
 
 * 2021 A comprehensive review of deep learning-based single image super-resolution
+* 2021 Real-World Single Image Super-Resolution A Brief Review
 
 ## remote sensing super-resolution
 
